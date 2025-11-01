@@ -10,8 +10,12 @@ With that being said I want to actually learn the curriculum and will try to not
 but instead reach out to professionals or anyone that finds this and can guide me in the right direction!
 
 The ambitious goals that I have for this is as follows:
+
 -Linux Infrastucture (RHCSA and RHCE in progress)
+
 -Embedded Systems (Buildroot, U-Boot, Yocoto)
+
 -FPGA Design (Verilog, Vivado, Zynq SoCs)
+
 -Automation (Ansible, Jenkins, Bash, Python)
 
