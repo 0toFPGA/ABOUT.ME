@@ -23,3 +23,6 @@ The ambitious goals that I have for this is as follows:
 
 -Automation (Ansible, Jenkins, Bash, Python)
 
+Links:
+Stumbled across the following - https://www.fpga4student.com/2017/08/verilog-vs-vhdl-explain-by-example.html
+
